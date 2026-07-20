@@ -1,29 +1,16 @@
-# Data-Analytics-Portfolio-Project
+# Data Analytics Portfolio
 
-This repository showcases my end-to-end data analytics projects using SQL, Excel, Python, Tableau, and data visualization techniques.
+Welcome to my Data Analytics portfolio.
 
 ## Projects
 
-### 1. Retail Sales Analysis
-- SQL data cleaning
-- Sales KPI analysis
-- Tableau dashboard
+### UK Housing Market Analysis
+- Python ETL
+- PostgreSQL Data Warehouse
+- SQL Analysis
+- Power BI Dashboard
 
-### 2. UK Housing Market Analysis
-- Property price trends
-- Regional comparisons
-- Interactive dashboard
+➡️ Open the project:
+`UK-Housing-Market-Analysis/`
 
-### 3. NHS Waiting Time Analysis
-- NHS performance metrics
-- Waiting list analysis
-- Healthcare insights
-
-## Skills Demonstrated
-
-- SQL
-- Tableau
-- Excel
-- Data Cleaning
-- Data Visualization
-- Business Intelligence
+(More projects coming soon...)
